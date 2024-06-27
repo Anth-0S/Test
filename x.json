@@ -1,0 +1,16 @@
+{
+    "app": "mainApplication.exe",
+    "forceUpdate": "1.0.0",
+    "package1": {
+        "version": "1.1.0",
+        "url": "https://github.com/ahmadhayyan/ahUpdater/releases/download/v1.2.0/ahUpdater.zip"
+    },
+    "package2": {
+        "version": "1.1.0",
+        "url": "http://yourwebsite.com/files/package2.zip"
+    },
+    "packageN": {
+        "version": "1.0.0",
+        "url": "http://yourwebsite.com/files/packageN.zip"
+    }
+}
